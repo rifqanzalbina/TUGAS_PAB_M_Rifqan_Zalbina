@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899280247923",
+    "project_id": "mahasiswa-dc754",
+    "storage_bucket": "mahasiswa-dc754.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899280247923:android:964a99bbb3965f7593de06",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEhin4VkZOlyhu5qtqjiXapww2WkHyLME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
