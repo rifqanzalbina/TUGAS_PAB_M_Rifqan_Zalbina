@@ -11,6 +11,7 @@ class Mahasiswa {
     required this.visi,
   });
 
+// Untuk memaping npm, nama, visi
   Map<String, dynamic> toJson() => {
     'npm' : npm,
     'nama' : nama,
